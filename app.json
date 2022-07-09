@@ -2,7 +2,7 @@
   "name": "CallMusicPlus69",
   "description": "Telegram Voice Chat Music Player Bot Based On Callsmusic with Extrac Features!",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/brut69/CallMusicPlus69",
+  "repository": "https://github.com/mrlegend44/CallMusicPlus69",
   "logo": "https://telegra.ph/file/8869126a35a10cb47e0fd.png",
   "stack": "container",
   "env": {
